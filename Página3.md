@@ -3,7 +3,7 @@
 
 ---
 
-## 📖 Contenido
+##  Contenido
 
 1. Historia y Cultura del Mundo del Motor.
 2. Coches eléctricos e híbridos.
