@@ -26,6 +26,8 @@ Bienvenido a **TOODOMOTOR**, tu revista digital sobre el mundo del automóvil.
 ---
 ## Lo que nos estamos perdiendo con los coches clásicos
 
+![Coche mas clásico]([https://www.topgear.com/sites/default/files/2022/07/All-NewDaciaSandero.jpg](https://eventosmotor.com/wp-content/uploads/2021/01/mejores-clasicos-anos-50-60-blog-premium-eventosmotor-11-scaled-e1611231444749.jpg))
+
 En una época donde los coches se conducen solos, los motores apenas hacen ruido y todo se mide en eficiencia, los coches clásicos representan algo que va mucho más allá de la nostalgia: son la esencia pura del arte mecánico. Cada línea de su carrocería, cada sonido del motor y cada olor a gasolina cuentan una historia que los vehículos modernos, por muy avanzados que sean, ya no pueden reproducir.
 
 Quienes no han tenido la oportunidad de subir a uno —de sentir cómo vibra el volante, o cómo responde el motor con un leve toque del acelerador— se pierden algo difícil de describir: la conexión entre el conductor y la máquina. En los clásicos no hay pantallas táctiles, ni asistentes virtuales, ni silencio absoluto; hay imperfecciones, carácter y alma.
