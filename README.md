@@ -5,7 +5,7 @@
 
 ## 📖 Contenido
 
-1. [Historia y cultura del mundo del motor.] (https://github.com/PABLOSANCHEZ444/Revista?tab=readme-ov-file#historia-y-cultura-del-mundo-del-motor)
+1. Historia y cultura del mundo del motor.
 2. Coches eléctricos e híbridos.
 3. Novedades.
 4. Coches más vendidos.
