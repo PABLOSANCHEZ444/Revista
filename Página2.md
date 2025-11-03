@@ -2,7 +2,7 @@
 ### *Velocidad, kilómetros, y adrenalina sobre ruedas*
 
 ---
-##  🤑 COCHE MAS VENDIDO
+##   COCHE MAS VENDIDO
 ## **El ranking de los más populares: descubre los coches que triunfan**
 ![Coche mas vendido 2025](https://www.topgear.com/sites/default/files/2022/07/All-NewDaciaSandero.jpg)
 #### *El favorito de España: Dacia Sandero, práctico y económico.*
