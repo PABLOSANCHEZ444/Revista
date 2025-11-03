@@ -26,7 +26,7 @@ Bienvenido a **TOODOMOTOR**, tu revista digital sobre el mundo del automóvil.
 ---
 ## Lo que nos estamos perdiendo con los coches clásicos
 
-![Coche mas clásico]([https://www.topgear.com/sites/default/files/2022/07/All-NewDaciaSandero.jpg](https://eventosmotor.com/wp-content/uploads/2021/01/mejores-clasicos-anos-50-60-blog-premium-eventosmotor-11-scaled-e1611231444749.jpg))
+![Coche mas clásico]([https://www.topgear.com/sites/default/files/2022/07/All-NewDaciaSandero.jpg]https://eventosmotor.com/wp-content/uploads/2021/01/mejores-clasicos-anos-50-60-blog-premium-eventosmotor-11-scaled-e1611231444749.jpg)
 
 En una época donde los coches se conducen solos, los motores apenas hacen ruido y todo se mide en eficiencia, los coches clásicos representan algo que va mucho más allá de la nostalgia: son la esencia pura del arte mecánico. Cada línea de su carrocería, cada sonido del motor y cada olor a gasolina cuentan una historia que los vehículos modernos, por muy avanzados que sean, ya no pueden reproducir.
 
@@ -56,7 +56,7 @@ En subastas, el 250 GTO ha llegado a superar los **70 millones de dólares**, ci
 
 ## 2. Porsche 911 Carrera RS 2.7 (1973)
 
-![Porsche 911 RS 2.7 blanco con franjas laterales.](#)
+![Porsche 911 RS 2.7 blanco con franjas laterales.](https://espirituracer.com/archivos/2020/10/porsche-911-carrera-rs-27-touring-1.jpg)
 
 El **911 Carrera RS 2.7** representa el alma deportiva de Porsche en su forma más pura. Fue diseñado como un coche de competición homologado para carretera, con un motor bóxer de 2.7 litros y una aerodinámica que marcó tendencia con su icónico “ducktail” (cola de pato).  
 Ligero, ágil y con un sonido inconfundible, el RS 2.7 sigue siendo un objeto de deseo para quienes buscan la **conexión directa entre piloto y máquina**, algo difícil de encontrar en los coches modernos.
@@ -65,7 +65,7 @@ Ligero, ágil y con un sonido inconfundible, el RS 2.7 sigue siendo un objeto de
 
 ## 3. Ford Mustang Shelby GT500 (1967)
 
-![Ford Mustang Shelby GT500 azul con franjas blancas.](#)
+![Ford Mustang Shelby GT500 azul con franjas blancas.](https://cdn.motor1.com/images/mgl/X48rl/s3/1967-shelby-gt500cr-mustang-by-classic-recreations.jpg)
 
 El **Shelby GT500** es la encarnación del músculo americano. Nacido de la colaboración entre Carroll Shelby y Ford, este Mustang potenciado con un motor V8 de 7.0 litros se convirtió en un símbolo de potencia y libertad.  
 Su estética agresiva, su rugido característico y su aparición en películas icónicas lo mantienen en el imaginario popular.  
@@ -75,7 +75,7 @@ Hoy sigue siendo un clásico buscado tanto por coleccionistas como por fanático
 
 ## 4. Jaguar E-Type (1961–1975)
 
-![Jaguar E-Type verde oscuro con fondo campestre.](#)
+![Jaguar E-Type verde oscuro con fondo campestre.](https://cdn.motor1.com/images/mgl/Rq9PgK/s1/first-production-1961-jaguar-e-type-right-hand-drive-coupe.jpg)
 
 Pocos coches combinan belleza y rendimiento como el **Jaguar E-Type**. En su época, Enzo Ferrari lo describió como “el coche más bonito jamás fabricado”, y el tiempo no ha hecho más que darle la razón.  
 Con su diseño alargado, sus curvas elegantes y su motor de seis cilindros, el E-Type marcó un antes y un después en la historia del diseño automotriz.  
@@ -85,7 +85,7 @@ Hoy sigue siendo un modelo codiciado por coleccionistas y amantes del estilo bri
 
 ## 5. Mercedes-Benz 300 SL “Alas de Gaviota” (1954–1957)
 
-![Mercedes 300 SL con las puertas abiertas mostrando su diseño icónico.](#)
+![Mercedes 300 SL con las puertas abiertas mostrando su diseño icónico.](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm3PNoqw5-4Ofh8P2RGD98d3jgYfTQbPqioQ&s)
 
 El **Mercedes-Benz 300 SL Gullwing** es una joya de la ingeniería alemana. Su nombre proviene de las espectaculares puertas que se abren hacia arriba, imitando las alas de una gaviota.  
 Fue uno de los primeros coches en utilizar **inyección directa de combustible**, algo revolucionario en su época.  
