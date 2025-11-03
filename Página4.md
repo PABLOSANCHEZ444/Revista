@@ -46,7 +46,7 @@ Ya sea por su diseño, su sonido o su exclusividad, estos cinco clásicos siguen
 
 ## 1. Ferrari 250 GTO (1962–1964)
 
-![Ferrari 250 GTO rojo en pista o exposición.](#)
+![Ferrari 250 GTO rojo en pista o exposición.](https://i.ytimg.com/vi/ewQaikxTUJs/maxresdefault.jpg)
 
 El **Ferrari 250 GTO** es, para muchos, el santo grial de los coches clásicos. Solo se fabricaron 36 unidades, y cada una es una obra maestra de la ingeniería italiana.  
 Su motor V12, su ligereza y su equilibrio perfecto entre elegancia y agresividad lo convierten en uno de los coches más deseados de todos los tiempos.  
