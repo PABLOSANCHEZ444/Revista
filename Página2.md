@@ -5,7 +5,7 @@
 //coches mas vendidos
 //deportes
 //comparativa de marcas
-## 🤑 COCHE MAS VENDIDO
+##  COCHE MAS VENDIDO
 ## **El ranking de los más populares: descubre los coches que triunfan**
 ![Coche mas vendido 2025](https://www.topgear.com/sites/default/files/2022/07/All-NewDaciaSandero.jpg)
 #### *El favorito de España: Dacia Sandero, práctico y económico.*
@@ -27,14 +27,14 @@ El Dacia Sandero continúa siendo el coche más vendido en España gracias a su 
 
 ---
 
-## ⚡ El futuro del automóvil
+##  El futuro del automóvil
 | ![Renault 5 E-Tech](https://th.bing.com/th/id/R.7b2862e76f9daedc4f1174bde223d016?rik=dJohuBISWyWUUQ&pid=ImgRaw&r=0) | ![Hyundai Ioniq 6](https://tse1.mm.bing.net/th/id/OIP.ajCx-NibBHNGcb5yiYc-xQHaE7?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3) | ![Cupra Tavascan](https://th.bing.com/th/id/OIP.zHFBYNK_MzoAHPUVUEwLjwHaEc?o=7&cb=12rm=3&rs=1&pid=ImgDetMain&o=7&rm=3) |
 |:---:|:---:|:---:|
 | **Coches eléctricos e híbridos que cambian las reglas del juego** | Modelos como **Renault 5 E-Tech**, **Hyundai Ioniq 6** y **Cupra Tavascan** demuestran que la movilidad sostenible ya es una realidad en España. | *Dato curioso:* Cada vez hay más puntos de carga públicos; la transición a eléctricos es más fácil de lo que crees.
 
 ---
 
-## 🏆 Coches icónicos que marcaron tendencia
+##  Coches icónicos que marcaron tendencia
 | ![Volkswagen Golf](https://tse1.mm.bing.net/th/id/OIP.4hRTKB-kDWOfgyqqJs1cbAHaEK?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3) | ![Seat Ibiza](https://tse2.mm.bing.net/th/id/OIP.Ix_yWgGDdYT07qqjuCtnogHaDt?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3) | ![Toyota Corolla](https://tse4.mm.bing.net/th/id/OIP.4_lz7iGHjZzrPTMUPGHVTgHaEK?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3) |
 |:---:|:---:|:---:|
 | **Volkswagen Golf clásico** | **Seat Ibiza clásico** | **Toyota Corolla** |
@@ -42,7 +42,7 @@ El Dacia Sandero continúa siendo el coche más vendido en España gracias a su 
 
 ---
 
-## 🔧 Curiosidades del motor
+##  Curiosidades del motor
 | ![Motor](https://tse1.mm.bing.net/th/id/OIP.RU0cwuKBDrwd_0_V-yqfsQHaHT?cb=12&rs=1&pid=Img) | ![Batería](https://tse4.mm.bing.net/th/id/OIP.C6mgY0x0DR7PHSyp_FpuQgHaGB?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3) | ![Volante](https://tse4.mm.bing.net/th/id/OIP.aR2pEEUvfwfTCEVH-lOGggHaEK?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3) |
 |:---:|:---:|:---:|
 | **Dacia Sandero** | **Coches híbridos** | **Futuro del motor** |
@@ -66,7 +66,7 @@ En la próxima edición, nos adentraremos en el **mundo de los coches eléctrico
 
 ---
 
-## 🏁 Coches de Rally: Potencia y adrenalina
+##  Coches de Rally: Potencia y adrenalina
 
 Los **coches de rally** son máquinas diseñadas para **conducir a alta velocidad en todo tipo de terrenos**, desde asfalto hasta tierra y nieve. Modelos como el **Ford Fiesta WRC**, el **Toyota Yaris WRC** o el **Hyundai i20 WRC** combinan **potencia, tracción total y suspensiones reforzadas**, permitiendo a los pilotos superar curvas imposibles y tramos extremos.  
 
@@ -77,7 +77,7 @@ El **motor de un coche WRC** puede alcanzar más de **380 CV**, y estos vehícul
 
 ---
 
-## 🏎 Fórmula 1: Tecnología y velocidad extrema
+##  Fórmula 1: Tecnología y velocidad extrema
 
 La **Fórmula 1** representa la cúspide de la tecnología automovilística y la velocidad en pista. Coches como el **Mercedes W14**, **Red Bull RB19** o **Ferrari SF-23** combinan **aerodinámica avanzada, motores híbridos V6 turbo y sistemas de recuperación de energía (ERS)** para alcanzar velocidades superiores a los 350 km/h.  
 
@@ -117,7 +117,7 @@ En el competitivo mundo del automóvil, cada marca se esfuerza por destacar en t
 
 ---
 
-## 🚗 **Toyota vs Volkswagen: Fiabilidad vs Innovación**
+##  **Toyota vs Volkswagen: Fiabilidad vs Innovación**
 | Característica | Toyota | Volkswagen |
 |----------------|--------|-----------|
 | Tecnología híbrida | Líder mundial con sistema probado y eficiente | Ofrece híbridos, pero apuesta más por eléctricos puros |
@@ -127,7 +127,7 @@ En el competitivo mundo del automóvil, cada marca se esfuerza por destacar en t
 
 ---
 
-## ⚡ **Tesla vs BMW: Eléctrico puro vs híbrido de alto rendimiento**
+##  **Tesla vs BMW: Eléctrico puro vs híbrido de alto rendimiento**
 | Característica | Tesla | BMW |
 |----------------|--------|-----|
 | Tipo de motorización | 100% eléctrica | Combina gasolina, híbridos y eléctricos (i-Series) |
@@ -137,7 +137,7 @@ En el competitivo mundo del automóvil, cada marca se esfuerza por destacar en t
 
 ---
 
-## 💰 **Dacia vs Peugeot: Asequible vs equilibrio**
+##  **Dacia vs Peugeot: Asequible vs equilibrio**
 | Característica | Dacia | Peugeot |
 |----------------|-------|--------|
 | Precio | El más económico del mercado | Intermedio |
@@ -147,7 +147,7 @@ En el competitivo mundo del automóvil, cada marca se esfuerza por destacar en t
 
 ---
 
-## 🏁 ¿Qué marca elegir según tu estilo?
+##  ¿Qué marca elegir según tu estilo?
 
 - **Si buscas eficiencia y tranquilidad:** *Toyota o Dacia*
 - **Si te apasiona la conducción deportiva:** *BMW o Peugeot GT Line*
